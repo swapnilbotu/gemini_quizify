@@ -8,12 +8,13 @@
 ## Features
 
 - **Document Ingestion:** Load and process PDF documents.
-- 
+  
 - **Embedding Generation:** Generate embeddings for document content using a pre-defined model.
-- 
+  
 - **Quiz Creation:** Generate multiple-choice questions based on the document content and specified topic.
-- 
+  
 - **Interactive Quiz:** Navigate through questions, submit answers, and receive feedback.
+
 
 ## Technologies Used: 
 - Python: The core programming language for developing the backend logic of Gemini Quizify.
