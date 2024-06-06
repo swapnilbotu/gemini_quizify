@@ -17,15 +17,15 @@
 
 
 ## Technologies Used: 
-- Python: The core programming language for developing the backend logic of Gemini Quizify.
+- **Python**: The core programming language for developing the backend logic of Gemini Quizify.
 
-- Langchain: Utilized for natural language processing tasks, enabling the tool to understand and analyze textual content effectively.
+- **Langchain**: Utilized for natural language processing tasks, enabling the tool to understand and analyze textual content effectively.
 
-- Chromadb: A database management system used to store and retrieve user data and quiz content efficiently.
+- **Chromadb**: A database management system used to store and retrieve user data and quiz content efficiently.
 
-- Google Gemini: Leveraged for AI-powered content analysis and generation, facilitating dynamic quiz creation based on user-provided documents.
+- **Google Gemini**: Leveraged for AI-powered content analysis and generation, facilitating dynamic quiz creation based on user-provided documents.
 
-- Streamlit: A framework used for building interactive web applications with Python, enhancing the user experience of Gemini Quizify.
+- **Streamlit**: A framework used for building interactive web applications with Python, enhancing the user experience of Gemini Quizify.
 
 
 ## Functions
