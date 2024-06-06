@@ -41,6 +41,9 @@ To run the Quiz Builder:
 2. Run the Streamlit application by executing `streamlit run xxx.py` in the terminal where xxx is the name of the py file you want to run. In this case it would likely be `streamlit run task_10.py`
 3. Follow the instructions provided in the user interface to interact with the Quiz Builder.
 
+## Video Demonstration
+[Gemini Quizify Demonstration](https://www.loom.com/share/d396d47931f8429b9776d3b825cf2adb?sid=93e81b14-24b4-4350-a9dd-bf2347f70b31)
+
 ## Contributers
 - Swapnil Botu
   - [Linkedin](https://www.linkedin.com/in/swapnil-botu)
