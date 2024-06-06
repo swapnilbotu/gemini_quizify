@@ -38,7 +38,7 @@ After pressing submit, it generates question(s) and allows to user to choose ans
 To run the Quiz Builder:
 
 1. Install the necessary dependencies listed in `requirements.txt`.
-2. In task 10 run the Streamlit application by executing `streamlit run xxx.py` in the terminal where xxx is the name of the py file you want to run.
+2. Run the Streamlit application by executing `streamlit run xxx.py` in the terminal where xxx is the name of the py file you want to run. In this case it would likely be `streamlit run task_10.py`
 3. Follow the instructions provided in the user interface to interact with the Quiz Builder.
 
 ## Contributers
