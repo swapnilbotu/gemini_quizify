@@ -1,6 +1,6 @@
 # Gemini Quizify
 ## Description
-- The **AI-Generated Quiz Tool** project focuses on providing students and learners with accessible and effective means to reinforce their understanding of various topics. 
+- My **AI-Generated Quiz Tool** project focuses on providing students and learners with accessible and effective means to reinforce their understanding of various topics. 
 
 - A streamlit app that can <ins>read user-provided documents, offer instand feedback, and dynamically generate a quiz with 1-10 multiple-choice questions with answer keys and explanations prepared</ins> that allow users to test themselves.
 
